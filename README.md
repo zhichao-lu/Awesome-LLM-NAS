@@ -1,5 +1,5 @@
 # Paper List of LLM based Neural Architecture Search
-| Year | Paper with code                                              | Code                                                         |
+| Year | Paper with link                                              | Code                                                         |
 | :--: | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2023 | [Can GPT-4 Perform Neural Architecture Search?](https://arxiv.org/abs/2304.10970) | [[Code](https://github.com/mingkai-zheng/GENIUS)]            |
 | 2023 | [Heterogeneous Graph Neural Architecture Search with GPT-4](https://arxiv.org/abs/2312.08680) |                                                              |
