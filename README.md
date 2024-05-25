@@ -1,6 +1,6 @@
 # Paper List of LLM based Neural Architecture Search
 
-If any authors do not want their paper to be listed here, please feel free to make pull request.
+
 
 | Year | Paper with link                                              | Code                                                         |
 | :--: | ------------------------------------------------------------ | ------------------------------------------------------------ |
