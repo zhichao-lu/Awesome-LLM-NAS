@@ -11,3 +11,4 @@
 | 2023 | [AutoML in the Age of Large Language Models: Current Challenges, Future Opportunities and Risks](https://arxiv.org/abs/2306.08107) [[Review](  https://openreview.net/forum?id=cAthubStyG)] |                                                              |
 | 2024 | [Graph Neural Architecture Search with GPT-4](https://arxiv.org/abs/2310.01436) |                                                              |
 | 2024 | [FL-NAS: Towards Fairness of NAS for Resource Constrained Devices via Large Language Models](https://arxiv.org/abs/2402.06696) |                                                              |
+| 2024 | [AutoMMLab: Automatically Generating Deployable Models from Language Instructions for Computer Vision Tasks](https://arxiv.org/abs/2402.15351) |                                                           |
