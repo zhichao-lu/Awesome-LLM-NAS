@@ -16,4 +16,4 @@
 | 2024 | [FL-NAS: Towards Fairness of NAS for Resource Constrained Devices via Large Language Models](https://arxiv.org/abs/2402.06696) |                                                              |
 | 2024 | [AutoMMLab: Automatically Generating Deployable Models from Language Instructions for Computer Vision Tasks](https://arxiv.org/abs/2402.15351) |                                                           |
 | 2024 | [LLaMA-NAS: Efficient Neural Architecture Search for Large Language Models](https://arxiv.org/abs/2405.18377) |                                                           |
-| 2024 | [Large Language Model Assisted Adversarial Robustness Neural Architecture Search](https://arxiv.org/abs/2406.05433) | [[Code](https://github.com/RuiZhong961230/LLMO)]            |
+| 2024 | [Large Language Model Assisted Adversarial Robustness Neural Architecture Search](https://arxiv.org/abs/2406.05433) (Accepted by The 6th International Conference on Data-driven Optimization of Complex Systems (DOCS) 2024)| [[Code](https://github.com/RuiZhong961230/LLMO)]            |
